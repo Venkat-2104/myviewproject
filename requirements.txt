@@ -11,7 +11,7 @@ debugpy==1.8.0
 decorator==5.1.1
 defusedxml==0.7.1
 distlib==0.3.7
-Django==4.2.5
+Django
 executing==2.0.1
 fastjsonschema==2.19.0
 filelock==3.12.2
@@ -48,8 +48,8 @@ Pygments==2.17.2
 pyparsing==3.1.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
+pytz==2024.1
 
-pywin32
 pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.2
