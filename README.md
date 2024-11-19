@@ -45,7 +45,7 @@ This platform connects movie enthusiasts by providing a space to express their t
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/username/myviewproject.git  
+   git clone https://github.com/Venkat-2104/myviewproject.git  
    cd myview
    
 2. **Install Dependencies**  
