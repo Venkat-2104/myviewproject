@@ -45,7 +45,7 @@ This platform connects movie enthusiasts by providing a space to express their t
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/username/myview.git  
+   git clone https://github.com/username/myviewproject.git  
    cd myview
    
 2. **Install Dependencies**  
